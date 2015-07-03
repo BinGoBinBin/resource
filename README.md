@@ -1,0 +1,2 @@
+# resource
+share resource project
